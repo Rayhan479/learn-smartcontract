@@ -1,0 +1,89 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "humans",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "nama",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "umur",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "makananFavorit",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "tambahGelo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "tambahHuman",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/belajar/belajar2.sol": "Belajar2"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/belajar/belajar2.sol": {
+			"keccak256": "0x7e15e4ade28f56e383bc7534b3eb3b0ac92fdfdc3198c8ececea7471726725f5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3c2776c1f590dab4686c92d93e1982ba1c1f4f6e0e49945f0e3e6635d4ddc46b",
+				"dweb:/ipfs/QmeuJ7Atxc5ZXku32P979mr6XKCPyhfNHjcsMGjsn4RbWA"
+			]
+		}
+	},
+	"version": 1
+}
