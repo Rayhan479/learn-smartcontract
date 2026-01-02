@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/belajar/belajar8.sol": "B"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/belajar/belajar8.sol": {
+			"keccak256": "0x8e7d054874103086e87f00304184e117457bf2d0b45a1a3bb0e144cc7ca278da",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cf9344c8ac619af89ae40aaf92e2f3fb7c9a0d19682a6196a90edab5166aafb4",
+				"dweb:/ipfs/QmfRTzb9eoiTRXp9rKAsxhdfKU7xcenHkF3dMiAFpVJ9T8"
+			]
+		}
+	},
+	"version": 1
+}

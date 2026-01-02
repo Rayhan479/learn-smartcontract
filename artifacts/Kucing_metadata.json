@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "berjalan",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/belajar/belajar8.sol": "Kucing"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/belajar/belajar8.sol": {
+			"keccak256": "0x676876cbfd094a2983263257a717a554ea33ed505b2ca71d1aa5a07241343786",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://43eec22da296b4fd71bebd7c9629de0067effbbeeda822e0747fa7a4c70ba821",
+				"dweb:/ipfs/QmdN7okzgNxhFZb4NXYmzcYbeSia1dxr3T4RxxP4D3AUrB"
+			]
+		}
+	},
+	"version": 1
+}
