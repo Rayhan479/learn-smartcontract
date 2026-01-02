@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "readNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_newNumber",
+						"type": "uint256"
+					}
+				],
+				"name": "updateNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/belajar/kontrakB.sol": "KontrakB"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/belajar/kontrakB.sol": {
+			"keccak256": "0x279fa04aa81510dde7fa53d13551a2076efc65396e55650260508ebc6d5746fb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1ef32d9f3c96a734e8d23c1d16727789088d82dea0f399f57a8742bd6e27f19d",
+				"dweb:/ipfs/QmYwwbeAeK2QMsgQ3BsuDpfn8v6RrrvB2pZPGf4F7Qp3cV"
+			]
+		}
+	},
+	"version": 1
+}

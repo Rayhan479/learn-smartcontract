@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number",
+						"type": "uint256"
+					}
+				],
+				"name": "setNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/belajar/belajar9.sol": "KontrakA"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/belajar/belajar9.sol": {
+			"keccak256": "0xcd61c3ce540513208dad70928d4f0ade3d8e0d25aaad3b54f4fb4b2f1a8cd111",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://348614b171b2037cf0f84a9a565e1bd7d8b3bf37a99cbfbf63337aa2063591ee",
+				"dweb:/ipfs/QmQubpBmPFu5A6phPAqugxGK5gadf2Q85XRXAXqjcXix2w"
+			]
+		}
+	},
+	"version": 1
+}
